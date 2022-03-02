@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td>อริสรา ทองบริสุทธิ์</td>
-        <td><img src="https://www.khaosod.co.th/wpapp/uploads/2019/08/S__2375727-566x696.jpg"></td>
+        <td><img src="https://static.posttoday.com/media/content/2020/09/29/36EC9284BEFCBE346ACC4FE9DD898DF2_1000.jpg"></td>
         <td><a href="https://www.facebook.com/profile.php?id=100014691842081">Facebook</a></td>
       </tr>
       <tr>
