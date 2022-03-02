@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td>อริสรา ทองบริสุทธิ์</td>
-        <td><img src="https://scontent.fbkk5-1.fna.fbcdn.net/v/t39.30808-6/274720138_1302006693632380_4600763225902350878_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGFeroslPYkrI2vCyoAEGInbTukkoCa35RtO6SSgJrflKs6SAovWrgDensLLUgWXIbjtcRdBKQYS4U8si7LyHfG&_nc_ohc=Jjb1kdAGPzkAX8fGilU&_nc_ht=scontent.fbkk5-1.fna&oh=00_AT-x93oqr0Q2huc3ngXLWjjfKFjlIwp8IihmqzDPrpz9_g&oe=62235FE8"></td>
+        <td><img src="https://www.khaosod.co.th/wpapp/uploads/2019/08/S__2375727-566x696.jpg"></td>
         <td><a href="https://www.facebook.com/profile.php?id=100014691842081">Facebook</a></td>
       </tr>
       <tr>
