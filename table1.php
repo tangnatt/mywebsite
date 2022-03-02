@@ -18,9 +18,9 @@
       </tr>
       <tr>
         <td>2</td>
-        <td>ยิ่งคุณ รอดทิม</td>
-        <td><img src="https://i.pinimg.com/280x280_RS/94/e4/d1/94e4d1683b63958c29e2fa96a176f016.jpg" width="45px"></td>
-        <td><a href="https://www.facebook.com/yunking.rodtim">Facebook</a></td>
+        <td>Kendall Jenner</td>
+        <td><img src="https://cdn.shopify.com/s/files/1/2185/2813/articles/FULL_JPG-ALO_KendallJenner-51_1200x.progressive.jpg?v=1623881067"></td>
+        <td><a href="https://www.facebook.com/KendallJenner">Facebook</a></td>
       </tr>
       <tr>
         <td>3</td>
