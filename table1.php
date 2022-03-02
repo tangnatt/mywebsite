@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>Kendall Jenner</td>
-        <td><img src="https://thefappening.pro/wp-content/uploads/2021/06/Kendall-Jenner-In-Short-Tennis-Skirt-TheFappening.Pro-6.jpg"></td>
+        <td><img src="https://i0.wp.com/i.dailymail.co.uk/1s/2021/06/17/04/44325615-0-image-a-366_1623899137250.jpg?resize=634%2C793&ssl=1"></td>
         <td><a href="https://www.facebook.com/KendallJenner">Facebook</a></td>
       </tr>
       <tr>
