@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>Kendall Jenner</td>
-        <td><img src="file:///Users/tangnatt/Desktop/Screen%20Shot%202565-03-02%20at%2015.11.43.png"></td>
+        <td><img src="https://cdn.shopify.com/s/files/1/2185/2813/articles/FULL_JPG-ALO_KendallJenner-51_1200x.progressive.jpg?v=1623881067"></td>
         <td><a href="https://www.facebook.com/KendallJenner">Facebook</a></td>
       </tr>
       <tr>
