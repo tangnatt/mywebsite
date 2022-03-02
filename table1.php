@@ -24,7 +24,7 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>Gigi hadid</td>
+        <td>Gigi Hadid</td>
         <td><img src="https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=90&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2021/01/gigi-hadid-jacquemus-resize.jpg" width="45px"></td>
         <td><a href="https://www.facebook.com/officialgigihadid">Facebook</a></td>
       </tr>
